@@ -1,0 +1,58 @@
+01:31:49 [ INFO] Opening target process: csgo.exe
+01:31:49 [ INFO] Starting signature scanning: 54 items
+01:31:49 [ INFO] Found signature: dwClientState => 0x58ADD4
+01:31:49 [ INFO] Found signature: dwClientState_GetLocalPlayer => 0x180
+01:31:49 [ INFO] Found signature: dwClientState_IsHLTV => 0x4D40
+01:31:49 [ INFO] Found signature: dwClientState_Map => 0x28C
+01:31:49 [ INFO] Found signature: dwClientState_MapDirectory => 0x188
+01:31:49 [ INFO] Found signature: dwClientState_MaxPlayer => 0x388
+01:31:49 [ INFO] Found signature: dwClientState_PlayerInfo => 0x52B8
+01:31:49 [ INFO] Found signature: dwClientState_State => 0x108
+01:31:49 [ INFO] Found signature: dwClientState_ViewAngles => 0x4D88
+01:31:49 [ INFO] Found signature: clientstate_delta_ticks => 0x174
+01:31:49 [ INFO] Found signature: clientstate_last_outgoing_command => 0x4D24
+01:31:49 [ INFO] Found signature: clientstate_choked_commands => 0x4D28
+01:31:49 [ INFO] Found signature: clientstate_net_channel => 0x9C
+01:31:49 [ WARN] dwEntityList sigscan failed: Module not found
+01:31:49 [ WARN] dwForceAttack sigscan failed: Module not found
+01:31:49 [ WARN] dwForceAttack2 sigscan failed: Module not found
+01:31:49 [ WARN] dwForceBackward sigscan failed: Module not found
+01:31:49 [ WARN] dwForceForward sigscan failed: Module not found
+01:31:49 [ WARN] dwForceJump sigscan failed: Module not found
+01:31:49 [ WARN] dwForceLeft sigscan failed: Module not found
+01:31:49 [ WARN] dwForceRight sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: dwGameDir => 0x6296F8
+01:31:49 [ WARN] dwGameRulesProxy sigscan failed: Module not found
+01:31:49 [ WARN] dwGetAllClasses sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: dwGlobalVars => 0x58AAD8
+01:31:49 [ WARN] dwGlowObjectManager sigscan failed: Module not found
+01:31:49 [ WARN] dwInput sigscan failed: Module not found
+01:31:49 [ WARN] dwInterfaceLinkList sigscan failed: Module not found
+01:31:49 [ WARN] dwLocalPlayer sigscan failed: Module not found
+01:31:49 [ WARN] dwMouseEnable sigscan failed: Module not found
+01:31:49 [ WARN] dwMouseEnablePtr sigscan failed: Module not found
+01:31:49 [ WARN] dwPlayerResource sigscan failed: Module not found
+01:31:49 [ WARN] dwRadarBase sigscan failed: Module not found
+01:31:49 [ WARN] dwSensitivity sigscan failed: Module not found
+01:31:49 [ WARN] dwSensitivityPtr sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: dwSetClanTag => 0x89FB0
+01:31:49 [ WARN] dwViewMatrix sigscan failed: Module not found
+01:31:49 [ WARN] dwWeaponTable sigscan failed: Module not found
+01:31:49 [ WARN] dwWeaponTableIndex sigscan failed: Module not found
+01:31:49 [ WARN] dwYawPtr sigscan failed: Module not found
+01:31:49 [ WARN] dwZoomSensitivityRatioPtr sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: dwbSendPackets => 0xD415A
+01:31:49 [ INFO] Found signature: dwppDirect3DDevice9 => 0xA7030
+01:31:49 [ WARN] m_pStudioHdr sigscan failed: Module not found
+01:31:49 [ WARN] m_yawClassPtr sigscan failed: Module not found
+01:31:49 [ WARN] m_pitchClassPtr sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: interface_engine_cvar => 0x3E9EC
+01:31:49 [ INFO] Found signature: convar_name_hash_table => 0x2F0F8
+01:31:49 [ WARN] m_bDormant sigscan failed: Module not found
+01:31:49 [ INFO] Found signature: model_ambient_min => 0x58DE4C
+01:31:49 [ WARN] set_abs_angles sigscan failed: Module not found
+01:31:49 [ WARN] set_abs_origin sigscan failed: Module not found
+01:31:49 [ WARN] is_c4_owner sigscan failed: Module not found
+01:31:49 [ WARN] force_update_spectator_glow sigscan failed: Module not found
+01:31:49 [ INFO] Finished signature scanning: 21/54 items successful
+01:31:49 [ INFO] Starting netvar scanning: 79 items
