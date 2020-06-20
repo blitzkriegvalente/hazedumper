@@ -1,10 +1,10 @@
 using System;
 
-// 2020-06-19 15:17:18.110504700 UTC
+// 2020-06-20 04:59:45.747973100 UTC
 
 namespace hazedumper
 {
-    public const Int32 timestamp = 1592579838;
+    public const Int32 timestamp = 1592629185;
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
