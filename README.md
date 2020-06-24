@@ -1,2 +1,0 @@
-# hazedumper
-haze valente atualizaçoes 
